@@ -1,6 +1,6 @@
 # daco_marvel
 
-A new Flutter project.
+Dacod_marvel esta desarrollada con la arquitectura MVVM y con el gestor de esttados Provider.
 
 #Dev
 
